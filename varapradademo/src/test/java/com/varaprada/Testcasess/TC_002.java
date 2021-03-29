@@ -10,7 +10,7 @@ public class TC_002 extends BaseTest {
 		
 		init();
 		
-		launch("chromebrowser");
+		launch("firefoxbrowser");
 		
 		navigateUrl("amazonurl");
 		
